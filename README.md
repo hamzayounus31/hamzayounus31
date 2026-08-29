@@ -1,79 +1,83 @@
-# **Hi 👋, I'm Hamza Younus**  
-A creative designer & developer who loves to build beautiful things with code. 🌍  
+# Hi 👋, I'm Hamza Younus
+
+**Full Stack Developer** building real, end-to-end products for real businesses — from POS systems and enterprise software to AI-powered assistants. 🚀
 
 ---
 
-### 🔭 I’m currently working on  
-- Building **AI Startup** 🚀  
+### 💼 About Me
+- 🎓 B.Sc Computer Science student @ GIMS Arid University
+- 🏢 Full Stack Developer (Certified) @ **NETSTECH Software Solutions (Pvt.) Ltd.**
+- 🛠️ I've shipped production systems used daily by real businesses — POS software, asset management systems, mobile apps and AI voice assistants
+- 🌱 Currently diving deep into **AI agents, automation & n8n workflows**
+- 📱 Solo-built and shipped a full Android app (**Focusee**) in 5 days
+- 👨‍💻 All my work is on my [Portfolio →](https://hamza31.netlify.app)
 
-### 🌱 I’m currently learning  
-- Python 🐍  
-- Html 🔥
-- JAVA ☕
-- CSS 🎨
+### 🔭 I'm currently working on
+- **Duaa AI** — a voice companion that listens, remembers and controls your whole PC
+- AI agents & automation workflows
 
-### 👯 I’m looking to collaborate on  
-- **Style and Schedule** (open source project)  
+### 💬 Ask me about
+- Full stack web & app development · REST APIs · POS & billing systems · AI agents & voice assistants · Android (Kotlin/Jetpack Compose) · IoT (Arduino/ESP32)
 
-### 👨‍💻 All of my projects are available at my Portfolio  
-👉 [Hamza Portfolio](https:/hamza31.netlify.app)  
+### 📫 Reach me
+- 📧 **hy720872@gmail.com**
+- 💬 WhatsApp: **0319-6076608**
+- 🌐 [hamza31.netlify.app](https://hamza31.netlify.app)
 
-### 💬 Ask me about  
-- **AI, MySQL,Web Design,Web Dev,Chatbots,Python Assistents**  
-
-### 📫 How to reach me  
-📧 **hy720872@gmail.com**  
-
-### ⚡ Fun fact  
-😅 *I make AI based Websites in every week!*  
+### ⚡ Fun fact
+I build a new AI-powered project almost every week — from voice assistants to full billing systems. 😅
 
 ---
 
 ## 🛠️ Languages & Tools
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
-<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tinkoplayz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hamzayounus31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tinkoplayz&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzayounus31&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
-<!-- Animated Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinkoplayz&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzayounus31&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
-<!-- Profile Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tinkoplayz&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hamzayounus31&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-⭐️ From [Hamza Younus](https://github.com/tinkoplayz)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamzaif/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/></a>
+  &nbsp;
+  <a href="https://www.instagram.com/lost_emperor31/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" height="30"/></a>
+</p>
+
+⭐️ From [Hamza Younus](https://github.com/hamzayounus31)
