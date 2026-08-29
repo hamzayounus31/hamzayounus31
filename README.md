@@ -57,7 +57,7 @@ I build a new AI-powered project almost every week — from voice assistants to 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hamzayounus31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=hamzayounus31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@ I build a new AI-powered project almost every week — from voice assistants to 
 <p align="center">
   <a href="https://www.linkedin.com/in/hamzaif/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/></a>
   &nbsp;
-  <a href="https://www.instagram.com/lost_emperor31/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" height="30"/></a>
+  <a href="https://www.instagram.com/lost_emperor31/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30"/></a>
 </p>
 
 ⭐️ From [Hamza Younus](https://github.com/hamzayounus31)
