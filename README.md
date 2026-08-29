@@ -60,18 +60,6 @@ I build a new AI-powered project almost every week — from voice assistants to 
   <img src="https://streak-stats.demolab.com?user=hamzayounus31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzayounus31&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzayounus31&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamzayounus31&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 <p align="center">
